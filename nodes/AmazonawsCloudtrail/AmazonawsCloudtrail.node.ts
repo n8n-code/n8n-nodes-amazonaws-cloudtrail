@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class AmazonawsCloudtrail implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'amazonaws-cloudtrail',
+		displayName: 'Amazonaws Cloudtrail',
 		name: 'N8nDevAmazonawsCloudtrail',
 		icon: { light: 'file:./amazonaws-cloudtrail.png', dark: 'file:./amazonaws-cloudtrail.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'CloudTrail This is the CloudTrail API Reference. It provides descriptions of actions, data types, common parameters, and common errors for CloudTrail. CloudTrail is a..',
-		defaults: { name: 'amazonaws-cloudtrail' },
+		description: 'CloudTrail API Reference: actions, data types, parameters, errors.',
+		defaults: { name: 'Amazonaws Cloudtrail' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

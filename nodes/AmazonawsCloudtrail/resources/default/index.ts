@@ -572,7 +572,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Add Tags",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Add Tags",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.AddTags"
 				}
 			],
@@ -596,7 +596,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Resource Id",
+			"displayName": "Resource ID",
 			"name": "ResourceId",
 			"type": "string",
 			"default": "",
@@ -698,7 +698,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Cancel Query",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Cancel Query",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.CancelQuery"
 				}
 			],
@@ -747,7 +747,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Query Id",
+			"displayName": "Query ID",
 			"name": "QueryId",
 			"type": "string",
 			"default": "",
@@ -823,7 +823,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Create Channel",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Create Channel",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.CreateChannel"
 				}
 			],
@@ -1000,7 +1000,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Create Event Data Store",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Create Event Data Store",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.CreateEventDataStore"
 				}
 			],
@@ -1199,7 +1199,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Kms Key Id",
+			"displayName": "Kms Key ID",
 			"name": "KmsKeyId",
 			"type": "string",
 			"default": "",
@@ -1275,7 +1275,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Create Trail",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Create Trail",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.CreateTrail"
 				}
 			],
@@ -1525,7 +1525,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Kms Key Id",
+			"displayName": "Kms Key ID",
 			"name": "KmsKeyId",
 			"type": "string",
 			"default": "",
@@ -1651,7 +1651,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Delete Channel",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Delete Channel",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.DeleteChannel"
 				}
 			],
@@ -1751,7 +1751,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Delete Event Data Store",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Delete Event Data Store",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.DeleteEventDataStore"
 				}
 			],
@@ -1851,7 +1851,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Delete Resource Policy",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Delete Resource Policy",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.DeleteResourcePolicy"
 				}
 			],
@@ -1951,7 +1951,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Delete Trail",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Delete Trail",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.DeleteTrail"
 				}
 			],
@@ -2051,7 +2051,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Deregister Organization Delegated Admin",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Deregister Organization Delegated Admin",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.DeregisterOrganizationDelegatedAdmin"
 				}
 			],
@@ -2075,7 +2075,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Delegated Admin Account Id",
+			"displayName": "Delegated Admin Account ID",
 			"name": "DelegatedAdminAccountId",
 			"type": "string",
 			"default": "",
@@ -2151,7 +2151,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Describe Query",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Describe Query",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.DescribeQuery"
 				}
 			],
@@ -2200,7 +2200,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Query Id",
+			"displayName": "Query ID",
 			"name": "QueryId",
 			"type": "string",
 			"default": "",
@@ -2276,7 +2276,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Describe Trails",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Describe Trails",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.DescribeTrails"
 				}
 			],
@@ -2400,7 +2400,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Get Channel",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Get Channel",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.GetChannel"
 				}
 			],
@@ -2500,7 +2500,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Get Event Data Store",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Get Event Data Store",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.GetEventDataStore"
 				}
 			],
@@ -2600,7 +2600,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Get Event Selectors",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Get Event Selectors",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.GetEventSelectors"
 				}
 			],
@@ -2700,7 +2700,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Get Import",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Get Import",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.GetImport"
 				}
 			],
@@ -2724,7 +2724,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Import Id",
+			"displayName": "Import ID",
 			"name": "ImportId",
 			"type": "string",
 			"default": "",
@@ -2800,7 +2800,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Get Insight Selectors",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Get Insight Selectors",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.GetInsightSelectors"
 				}
 			],
@@ -2925,7 +2925,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Get Query Results",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Get Query Results",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.GetQueryResults"
 				}
 			],
@@ -2974,7 +2974,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Query Id",
+			"displayName": "Query ID",
 			"name": "QueryId",
 			"type": "string",
 			"default": "",
@@ -3100,7 +3100,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Get Resource Policy",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Get Resource Policy",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.GetResourcePolicy"
 				}
 			],
@@ -3200,7 +3200,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Get Trail",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Get Trail",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.GetTrail"
 				}
 			],
@@ -3300,7 +3300,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Get Trail Status",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Get Trail Status",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.GetTrailStatus"
 				}
 			],
@@ -3450,7 +3450,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 List Channels",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 List Channels",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.ListChannels"
 				}
 			],
@@ -3624,7 +3624,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 List Event Data Stores",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 List Event Data Stores",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.ListEventDataStores"
 				}
 			],
@@ -3798,7 +3798,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 List Import Failures",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 List Import Failures",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.ListImportFailures"
 				}
 			],
@@ -3822,7 +3822,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Import Id",
+			"displayName": "Import ID",
 			"name": "ImportId",
 			"type": "string",
 			"default": "",
@@ -3998,7 +3998,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 List Imports",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 List Imports",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.ListImports"
 				}
 			],
@@ -4219,7 +4219,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 List Public Keys",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 List Public Keys",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.ListPublicKeys"
 				}
 			],
@@ -4418,7 +4418,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 List Queries",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 List Queries",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.ListQueries"
 				}
 			],
@@ -4694,7 +4694,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 List Tags",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 List Tags",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.ListTags"
 				}
 			],
@@ -4718,7 +4718,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Resource Id List",
+			"displayName": "Resource ID List",
 			"name": "ResourceIdList",
 			"type": "json",
 			"default": "[\n  null\n]",
@@ -4844,7 +4844,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 List Trails",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 List Trails",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.ListTrails"
 				}
 			],
@@ -4993,7 +4993,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Lookup Events",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Lookup Events",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.LookupEvents"
 				}
 			],
@@ -5223,7 +5223,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Put Event Selectors",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Put Event Selectors",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.PutEventSelectors"
 				}
 			],
@@ -5373,7 +5373,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Put Insight Selectors",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Put Insight Selectors",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.PutInsightSelectors"
 				}
 			],
@@ -5499,7 +5499,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Put Resource Policy",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Put Resource Policy",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.PutResourcePolicy"
 				}
 			],
@@ -5625,7 +5625,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Register Organization Delegated Admin",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Register Organization Delegated Admin",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.RegisterOrganizationDelegatedAdmin"
 				}
 			],
@@ -5649,7 +5649,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Member Account Id",
+			"displayName": "Member Account ID",
 			"name": "MemberAccountId",
 			"type": "string",
 			"default": "",
@@ -5725,7 +5725,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Remove Tags",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Remove Tags",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.RemoveTags"
 				}
 			],
@@ -5749,7 +5749,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Resource Id",
+			"displayName": "Resource ID",
 			"name": "ResourceId",
 			"type": "string",
 			"default": "",
@@ -5851,7 +5851,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Restore Event Data Store",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Restore Event Data Store",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.RestoreEventDataStore"
 				}
 			],
@@ -5951,7 +5951,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Start Import",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Start Import",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.StartImport"
 				}
 			],
@@ -6074,7 +6074,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Import Id",
+			"displayName": "Import ID",
 			"name": "ImportId",
 			"type": "string",
 			"default": "",
@@ -6150,7 +6150,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Start Logging",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Start Logging",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.StartLogging"
 				}
 			],
@@ -6250,7 +6250,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Start Query",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Start Query",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.StartQuery"
 				}
 			],
@@ -6375,7 +6375,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Stop Import",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Stop Import",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.StopImport"
 				}
 			],
@@ -6399,7 +6399,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Import Id",
+			"displayName": "Import ID",
 			"name": "ImportId",
 			"type": "string",
 			"default": "",
@@ -6475,7 +6475,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Stop Logging",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Stop Logging",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.StopLogging"
 				}
 			],
@@ -6575,7 +6575,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Update Channel",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Update Channel",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.UpdateChannel"
 				}
 			],
@@ -6725,7 +6725,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Update Event Data Store",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Update Event Data Store",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.UpdateEventDataStore"
 				}
 			],
@@ -6924,7 +6924,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Kms Key Id",
+			"displayName": "Kms Key ID",
 			"name": "KmsKeyId",
 			"type": "string",
 			"default": "",
@@ -7000,7 +7000,7 @@ export const defaultDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Com Amazonaws Cloudtrail V 20131101 Cloud Trail 20131101 Update Trail",
+					"name": "Com Amazonaws Cloudtrail v20131101 Cloud Trail 20131101 Update Trail",
 					"value": "com.amazonaws.cloudtrail.v20131101.CloudTrail_20131101.UpdateTrail"
 				}
 			],
@@ -7249,7 +7249,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Kms Key Id",
+			"displayName": "Kms Key ID",
 			"name": "KmsKeyId",
 			"type": "string",
 			"default": "",

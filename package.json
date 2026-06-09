@@ -1,7 +1,7 @@
 {
   "name": "@n8n-dev/n8n-nodes-amazonaws-cloudtrail",
-  "version": "1.0.0",
-  "description": "CloudTrail This is the CloudTrail API Reference. It provides descriptions of actions, data types, common parameters, and common errors for CloudTrail. CloudTrail is a..",
+  "version": "1.0.1",
+  "description": "CloudTrail API Reference: actions, data types, parameters, errors.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-amazonaws-cloudtrail",
   "keywords": [
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "amazonaws-cloudtrail"

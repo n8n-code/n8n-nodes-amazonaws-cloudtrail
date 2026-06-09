@@ -8,7 +8,7 @@ import type {
 export class AmazonawsCloudtrailApi implements ICredentialType {
 	name = 'N8nDevAmazonawsCloudtrailApi';
 
-	displayName = 'amazonaws-cloudtrail API';
+	displayName = 'Amazonaws Cloudtrail API';
 
 	icon: Icon = { light: 'file:../nodes/AmazonawsCloudtrail/amazonaws-cloudtrail.png', dark: 'file:../nodes/AmazonawsCloudtrail/amazonaws-cloudtrail.dark.png' };
 
@@ -22,7 +22,7 @@ export class AmazonawsCloudtrailApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'http://cloudtrail.us-east-1.amazonaws.com',
-			description: 'The base URL of your amazonaws-cloudtrail API server',
+			description: 'The base URL of your Amazonaws Cloudtrail API server',
 		},
 		{
 			displayName: 'API Key',

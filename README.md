@@ -53,9 +53,55 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Post add tags, Post cancel query, Post create channel, Post create event data store, Post create trail, Post delete channel, Post delete event data store, Post delete resource policy, Post delete trail, Post deregister organization delegated admin, Post describe query, Post describe trails, Post get channel, Post get event data store, Post get event selectors, Post get import, Post get insight selectors, Post get query results, Post get resource policy, Post get trail, Post get trail status, Post list channels, Post list event data stores, Post list import failures, Post list imports, Post list public keys, Post list queries, Post list tags, Post list trails, Post lookup events, Post put event selectors, Post put insight selectors, Post put resource policy, Post register organization delegated admin, Post remove tags, Post restore event data store, Post start import, Post start logging, Post start query, Post stop import, Post stop logging, Post update channel, Post update event data store, Post update trail |
+<details>
+<summary><b>Default</b> (44 operations)</summary>
+
+- Post Add Tags
+- Post Cancel Query
+- Post Create Channel
+- Post Create Event Data Store
+- Post Create Trail
+- Post Delete Channel
+- Post Delete Event Data Store
+- Post Delete Resource Policy
+- Post Delete Trail
+- Post Deregister Organization Delegated Admin
+- Post Describe Query
+- Post Describe Trails
+- Post Get Channel
+- Post Get Event Data Store
+- Post Get Event Selectors
+- Post Get Import
+- Post Get Insight Selectors
+- Post Get Query Results
+- Post Get Resource Policy
+- Post Get Trail
+- Post Get Trail Status
+- Post List Channels
+- Post List Event Data Stores
+- Post List Import Failures
+- Post List Imports
+- Post List Public Keys
+- Post List Queries
+- Post List Tags
+- Post List Trails
+- Post Lookup Events
+- Post Put Event Selectors
+- Post Put Insight Selectors
+- Post Put Resource Policy
+- Post Register Organization Delegated Admin
+- Post Remove Tags
+- Post Restore Event Data Store
+- Post Start Import
+- Post Start Logging
+- Post Start Query
+- Post Stop Import
+- Post Stop Logging
+- Post Update Channel
+- Post Update Event Data Store
+- Post Update Trail
+
+</details>
 
 ---
 
